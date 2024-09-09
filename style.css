@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('Images/Background.png');
+    background-size: auto;
+    background-position: center;
+}
+
+header {
+    background-image: url(Images/Background2.png);
+    background-size: auto;
+    background-position: center;
+    color: rgb(231, 104, 104);
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.timeline {
+    margin: 20px 0;
+}
+
+.timeline-event {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-left: 3px solid #000000;
+}
+
+.timeline-event h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.timeline-event p {
+    margin: 5px 0 0;
+    color: #000000;
+}
+    
